@@ -4,7 +4,6 @@ import string
 import itertools
 from concurrent.futures import ThreadPoolExecutor
 from colorama import init, Fore, Style
-
 import os
 os.system('title Discord.gg/KayyShop')
 
